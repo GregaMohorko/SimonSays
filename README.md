@@ -6,11 +6,11 @@ Put your memory to the test and repeat after Simon!
 ## Screenshots
 ![Start screen](/Documentation/Screenshots/Screenshot_Menu.png?raw=true "Start screen")
 
-The game starts with a starting screen seen above.
+The game starts with a starting screen seen above and continues with the main game screen seen below.
 
 ![Game screen](/Documentation/Screenshots/Screenshot_InGame.png?raw=true "Game screen")
 
-Above is the main game screen. There are 9 blue cards that blink orange in a sequence. When the sequence is completed, you must click the cards in the exact same sequence.
+There are 9 blue cards that blink orange in a sequence. When the sequence is completed, you must click the cards in the exact same sequence.
 
 At start, the length of the sequence is 1. After each successful repeat, a new step is added to the sequence.
 
