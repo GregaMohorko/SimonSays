@@ -3,6 +3,8 @@ A simple implementation of Simon Says video game for Windows, made in .NET WPF.
 
 Put your memory to the test and repeat after Simon!
 
+[![Release](https://img.shields.io/github/release/GregaMohorko/SimonSays.svg?style=flat-square)](https://github.com/GregaMohorko/SimonSays/releases/latest)
+
 ## Screenshots
 ![Start screen](/Documentation/Screenshots/Screenshot_Menu.png?raw=true "Start screen")
 
