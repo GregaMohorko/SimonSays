@@ -20,7 +20,7 @@ At start, the length of the sequence is 1. After each successful repeat, a new s
 .NET Framework 4.6.1
 
 ## Author and License
-Grega Mohorko ([www.mohorko.info](http://www.mohorko.info))
+Grega Mohorko ([www.mohorko.info](https://www.mohorko.info))
 
 Copyright (c) 2013 Grega Mohorko
 
